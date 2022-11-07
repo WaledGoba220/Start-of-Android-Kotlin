@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyStart</string>
+    <string name="btn1">Summit</string>
+    <string name="enter_your_info">Enter Your Info</string>
+    <string name="user_name">Username</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>
