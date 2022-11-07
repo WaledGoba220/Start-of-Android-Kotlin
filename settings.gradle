@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "MyStart"
+rootProject.name = "ScrollView"
